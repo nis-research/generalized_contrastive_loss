@@ -1,4 +1,6 @@
 # Generalized Contrastive Loss
+## Accepted at CVPR2023 as 'Data-efficient Large Scale Place Recognition with Graded Similarity Supervision'
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/generalized-contrastive-optimization-of/visual-place-recognition-on-mapillary-test)](https://paperswithcode.com/sota/visual-place-recognition-on-mapillary-test?p=generalized-contrastive-optimization-of)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/generalized-contrastive-optimization-of/visual-place-recognition-on-mapillary-val)](https://paperswithcode.com/sota/visual-place-recognition-on-mapillary-val?p=generalized-contrastive-optimization-of)
